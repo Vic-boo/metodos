@@ -6,8 +6,8 @@ PrograMex | Métodos Numéricos
 
 Interfaz web interactiva (Streamlit) que reproduce TODO lo que el
 programa de consola original calcula e imprime, además de:
-  • Gráfica interactiva (Plotly) con los puntos óptimos marcados.
-  • Interpretación automática en lenguaje natural de los resultados.
+• Gráfica interactiva (Plotly) con los puntos óptimos marcados.
+• Interpretación automática en lenguaje natural de los resultados.
 """
 
 import numpy as np
